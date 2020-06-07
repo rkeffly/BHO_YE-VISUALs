@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zangsfilms.com	TRUE	/	FALSE	1999999999	__cfduid	d82ca850620e55cb1818512754658babb1590801117
+zangsfilms.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
